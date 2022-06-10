@@ -1,4 +1,4 @@
-# QML
+# Quantum Machine Learning
 
 This is a project I worked on 2 years ago to understand impurities in 2D metal sheets. This is one of the first application of Machine Learning in condensed matter physics. 
 
